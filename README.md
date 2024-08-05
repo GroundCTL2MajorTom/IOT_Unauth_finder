@@ -17,7 +17,7 @@ IOT Web Bypass 是一个用于检测潜在未授权访问的 Python 脚本。它
 可以通过以下命令安装依赖：
 
 ```
-pip install -r  requirements
+pip3 install -r requirements
 ```
 
 ### 使用方法
@@ -30,7 +30,7 @@ pip install -r  requirements
 ##### 运行脚本：
 
 ```
-python unauth_bypass.py
+python3 unauth_bypass.py
 ```
 
 ##### 输入参数：
@@ -63,8 +63,4 @@ python unauth_bypass.py
 
 GroundCTL2MajorTom - IOTSec-Zone
 
-### 版本
 
-版本：1.0
-许可证
-此项目不适用任何许可证。使用前请确保遵循相关法律法规。
