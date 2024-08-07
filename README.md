@@ -30,7 +30,7 @@ pip3 install -r requirements
 ##### 运行脚本：
 
 ```
-python3 unauth_bypass.py
+python3 Unauth_finder.py
 ```
 
 ##### 输入参数：
