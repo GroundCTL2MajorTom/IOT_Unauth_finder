@@ -1,8 +1,8 @@
-## IOT Web Bypass
+## IOT Unauth finder
 
 ### 简介
 
-IOT Web Bypass 是一个用于检测潜在未授权访问的 Python 脚本。它通过遍历指定目录中的文件，构建 URL，并检查响应内容以识别可能存在的安全漏洞。
+IOT Unauth finder 是一个用于检测潜在未授权访问的 Python 脚本。它通过遍历指定目录中的文件，构建 URL，并检查响应内容以识别可能存在的安全漏洞。
 
 ### 功能
 
